@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... watch this space, I will let you know
 - 📫 How to reach me:
       - Twitter: https://twitter.com/thehexlab1
+- ...
 
 <!---
 LeonBeeSwe/LeonBeeSwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
