@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonBeeSwe
+- 👋 Hi, I’m @LeonBee
 - 👀 I’m interested in Helium PeoplesNetwork and IoT (at the moment)
 - 🌱 I’m currently learning aaaa lot :-)
 - 💞️ I’m looking to collaborate on ... watch this space, I will let you know
